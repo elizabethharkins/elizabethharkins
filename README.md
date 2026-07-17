@@ -5,7 +5,7 @@ I engineer clean, robust, and highly maintainable web applications. My expertise
 
 ---
 
-### 🛠️  Technical Ecosystem
+### 🛠️ &nbsp;&npsp; Technical Ecosystem
 
 - **Languages:** TypeScript, JavaScript, HTML5, CSS3/SASS
 - **Frontend:** React, Next.js, Vite, Tailwind CSS
@@ -15,7 +15,7 @@ I engineer clean, robust, and highly maintainable web applications. My expertise
 
 ---
 
-### 💻  Engineering Philosophy
+### 💻 &nbsp;&npsp; Engineering Philosophy
 
 - **Type Safety First:** I believe strong typing is essential for scaling enterprise codebases and eliminating runtime errors before they reach production.
 - **Clean & Modular Architecture:** I prioritize solid separation of concerns, writing intuitive services, controllers, and custom middlewares that teams can easily extend.
@@ -23,7 +23,7 @@ I engineer clean, robust, and highly maintainable web applications. My expertise
 
 ---
 
-### 📫  Connect with Me
+### 📫 &nbsp;&npsp; Connect with Me
 
 - **Role Targets:** Senior Software Engineer | Lead Frontend Engineer
 - **Location:** East Coast, USA (DMV Corridor)
